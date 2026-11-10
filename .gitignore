@@ -1,0 +1,33 @@
+# ---- 构建产物 ----
+build/
+ops/*/build/
+*.o
+*.so
+*.a
+
+# ---- 缓存（CANN 安装包、WSL rootfs）----
+.cache/
+
+# ---- 运行与调试产物 ----
+*.log
+*.npy
+*.bin
+*.vcd
+core
+core.*
+# tikicpulib CPU 仿真运行产生的目录/日志
+cceprint/
+npuchk/
+stub_reg.log
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- 编辑器 / 系统 ----
+.vscode/settings.json
+.idea/
+Thumbs.db
+desktop.ini

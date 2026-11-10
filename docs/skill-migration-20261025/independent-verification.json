@@ -1,0 +1,19 @@
+{
+  "checked_date": "2026-10-25",
+  "timezone": "Asia/Shanghai",
+  "reviewer": "independent_subagent",
+  "status": "passed",
+  "fresh_scan_candidate_roots": 319,
+  "target_skill_names": 12,
+  "remaining_related_global_directories": 0,
+  "remaining_related_global_links": 0,
+  "migrated_global_sources": 492,
+  "original_matching_global_roots": 41,
+  "project_skill_directories": 24,
+  "project_files_verified": 304,
+  "content_and_directory_sets_match_original_catalog": true,
+  "git_skill_blob_bytes_verified_at_commit": "c006cf9",
+  "unique_journal_sources_match_inventory": true,
+  "legacy_global_install_command_remaining": false,
+  "inference_calls": 0
+}

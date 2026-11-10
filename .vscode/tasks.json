@@ -1,0 +1,71 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ascend: 编译当前算子",
+            "type": "shell",
+            "command": "bash ops/${fileBasenameNoExtension}/run.sh build",
+            "group": { "kind": "build", "isDefault": true },
+            "problemMatcher": ["$gcc"],
+            "presentation": { "reveal": "always", "clear": true }
+        },
+        {
+            "label": "ascend: 运行+精度校验当前算子",
+            "type": "shell",
+            "command": "bash ops/${fileBasenameNoExtension}/run.sh test",
+            "group": { "kind": "test", "isDefault": true },
+            "problemMatcher": ["$gcc"],
+            "presentation": { "reveal": "always", "clear": true }
+        },
+        {
+            "label": "ascend: 编译指定算子",
+            "type": "shell",
+            "command": "bash ops/${input:opName}/run.sh build",
+            "problemMatcher": ["$gcc"],
+            "presentation": { "reveal": "always", "clear": true }
+        },
+        {
+            "label": "ascend: 新建算子",
+            "type": "shell",
+            "command": "bash scripts/new_op.sh ${input:newOpName}",
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "clear": true }
+        },
+        {
+            "label": "ascend: 全量回归",
+            "type": "shell",
+            "command": "bash tests/run_all.sh cpu all",
+            "group": "test",
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "clear": true }
+        },
+        {
+            "label": "ascend: 环境自检",
+            "type": "shell",
+            "command": "bash env/check_env.sh",
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "clear": true }
+        },
+        {
+            "label": "ascend: 清理当前算子",
+            "type": "shell",
+            "command": "bash ops/${fileBasenameNoExtension}/run.sh clean",
+            "problemMatcher": [],
+            "presentation": { "reveal": "always", "clear": true }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "opName",
+            "type": "promptString",
+            "description": "算子目录名（ops/ 下），例如 add",
+            "default": "add"
+        },
+        {
+            "id": "newOpName",
+            "type": "promptString",
+            "description": "新算子名（小写字母开头，只含 a-z0-9_）",
+            "default": "silu"
+        }
+    ]
+}

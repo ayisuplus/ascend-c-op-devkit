@@ -1,0 +1,65 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ascend: 调试当前算子（当前打开的 .cpp）",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/ops/${fileBasenameNoExtension}/build/${fileBasenameNoExtension}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/ops/${fileBasenameNoExtension}/build",
+            "environment": [
+                {
+                    "name": "LD_LIBRARY_PATH",
+                    "value": "/usr/local/Ascend/cann-9.0.0/x86_64-linux/lib64:/usr/local/Ascend/cann-9.0.0/runtime/lib64:/usr/local/Ascend/cann-9.0.0/x86_64-linux/devlib"
+                }
+            ],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin/gdb",
+            "setupCommands": [
+                { "description": "排版", "text": "set pagination off", "ignoreFailures": true },
+                {
+                    "description": "ICPU_RUN_KF 会为每个核 fork 子进程，必须跟子进程才能进核函数",
+                    "text": "set follow-fork-mode child",
+                    "ignoreFailures": true
+                },
+                { "description": "不脱离父进程", "text": "set detach-on-fork off", "ignoreFailures": true },
+                { "description": "C++ 名称美化", "text": "-enable-pretty-printing", "ignoreFailures": true }
+            ],
+            "preLaunchTask": "ascend: 编译当前算子"
+        },
+        {
+            "name": "ascend: 调试指定算子（运行前询问名字）",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/ops/${input:opName}/build/${input:opName}",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/ops/${input:opName}/build",
+            "environment": [
+                {
+                    "name": "LD_LIBRARY_PATH",
+                    "value": "/usr/local/Ascend/cann-9.0.0/x86_64-linux/lib64:/usr/local/Ascend/cann-9.0.0/runtime/lib64:/usr/local/Ascend/cann-9.0.0/x86_64-linux/devlib"
+                }
+            ],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin/gdb",
+            "setupCommands": [
+                { "description": "排版", "text": "set pagination off", "ignoreFailures": true },
+                { "description": "跟子进程", "text": "set follow-fork-mode child", "ignoreFailures": true },
+                { "description": "不脱离父进程", "text": "set detach-on-fork off", "ignoreFailures": true }
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "id": "opName",
+            "type": "promptString",
+            "description": "算子目录名（ops/ 下），例如 add",
+            "default": "add"
+        }
+    ]
+}

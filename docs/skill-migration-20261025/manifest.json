@@ -1,0 +1,3924 @@
+{
+  "date": "2026-10-25",
+  "timezone": "Asia/Shanghai",
+  "status": "completed",
+  "project": "E:\\projects\\昇腾社区",
+  "skill_count": 12,
+  "original_global_directory_count": 492,
+  "global_roots_scanned": [
+    "C:\\Users\\36322\\.adal\\skills",
+    "C:\\Users\\36322\\.agents\\skills",
+    "C:\\Users\\36322\\.aider-desk\\skills",
+    "C:\\Users\\36322\\.augment\\skills",
+    "C:\\Users\\36322\\.bob\\skills",
+    "C:\\Users\\36322\\.cc-switch\\skills",
+    "C:\\Users\\36322\\.claude\\skills",
+    "C:\\Users\\36322\\.codeartsdoer\\skills",
+    "C:\\Users\\36322\\.codebuddy\\skills",
+    "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+    "C:\\Users\\36322\\.codemaker\\skills",
+    "C:\\Users\\36322\\.codestudio\\skills",
+    "C:\\Users\\36322\\.codex\\memories\\skills",
+    "C:\\Users\\36322\\.codex\\skills",
+    "C:\\Users\\36322\\.codex\\vendor_imports\\skills",
+    "C:\\Users\\36322\\.commandcode\\skills",
+    "C:\\Users\\36322\\.config\\crush\\skills",
+    "C:\\Users\\36322\\.config\\devin\\skills",
+    "C:\\Users\\36322\\.config\\goose\\skills",
+    "C:\\Users\\36322\\.config\\opencode\\skills",
+    "C:\\Users\\36322\\.continue\\skills",
+    "C:\\Users\\36322\\.copilot\\skills",
+    "C:\\Users\\36322\\.dsh\\skills",
+    "C:\\Users\\36322\\.factory\\skills",
+    "C:\\Users\\36322\\.forge\\skills",
+    "C:\\Users\\36322\\.gemini\\skills",
+    "C:\\Users\\36322\\.grok\\skills",
+    "C:\\Users\\36322\\.hermes\\skills",
+    "C:\\Users\\36322\\.iflow\\skills",
+    "C:\\Users\\36322\\.junie\\skills",
+    "C:\\Users\\36322\\.kilocode\\skills",
+    "C:\\Users\\36322\\.kiro\\skills",
+    "C:\\Users\\36322\\.kode\\skills",
+    "C:\\Users\\36322\\.lingma\\skills",
+    "C:\\Users\\36322\\.lmstudio\\.internal\\skills",
+    "C:\\Users\\36322\\.lmstudio\\hub\\skills",
+    "C:\\Users\\36322\\.lmstudio\\skills",
+    "C:\\Users\\36322\\.mcpjam\\skills",
+    "C:\\Users\\36322\\.mux\\skills",
+    "C:\\Users\\36322\\.neovate\\skills",
+    "C:\\Users\\36322\\.openclaw\\skills",
+    "C:\\Users\\36322\\.openhands\\skills",
+    "C:\\Users\\36322\\.pi\\agent\\skills",
+    "C:\\Users\\36322\\.pochi\\skills",
+    "C:\\Users\\36322\\.qoder\\skills",
+    "C:\\Users\\36322\\.qwen\\skills",
+    "C:\\Users\\36322\\.roo\\skills",
+    "C:\\Users\\36322\\.rovodev\\skills",
+    "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+    "C:\\Users\\36322\\.tabnine\\agent\\skills",
+    "C:\\Users\\36322\\.trae\\skills",
+    "C:\\Users\\36322\\.trae-cn\\skills",
+    "C:\\Users\\36322\\.vibe\\skills",
+    "C:\\Users\\36322\\.workbuddy\\connectors\\skills",
+    "C:\\Users\\36322\\.workbuddy\\skills",
+    "C:\\Users\\36322\\.zcode\\skills",
+    "C:\\Users\\36322\\.zencoder\\skills"
+  ],
+  "catalogs": [
+    {
+      "name": "ascend-avi-vnpu",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8511,
+          "sha256": "53fe1ad29fe2bf52c77a13a1cadc8690ecc7bd4566e87144efc063801fe8dcc3"
+        },
+        {
+          "path": "references/avi-mode.md",
+          "bytes": 1823,
+          "sha256": "42ddad3ec1f133ea895d0c9058eb09d04ca7cb59b970ebff27bfdbbc13cb1293"
+        },
+        {
+          "path": "references/security-checklist.md",
+          "bytes": 3042,
+          "sha256": "fb3e9cc48134d69c00294104fdde8a49247840835cfa76adc71a71cac63ebec2"
+        },
+        {
+          "path": "references/template-info.md",
+          "bytes": 2490,
+          "sha256": "0d70c92f330d6ca01d1320f7a0d14c0d076a2518287441d55732c62740054719"
+        },
+        {
+          "path": "references/troubleshooting.md",
+          "bytes": 3477,
+          "sha256": "b9719a875f2003fc7ec8e39ec7491c8b38bfca5956baf7a729c65752a47ddd25"
+        },
+        {
+          "path": "references/vnpu-management.md",
+          "bytes": 4029,
+          "sha256": "7f97e788cff3ba93d164e3538ea32811b42633d7b2f0420ef12872b0888a3d2c"
+        }
+      ],
+      "directories": [
+        "references"
+      ]
+    },
+    {
+      "name": "ascend-dmi",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12061,
+          "sha256": "7ff6d8c9881d0e22f76ee9b7d8b71b9fd8d1a9a4109f4dbb291d68a0967a1946"
+        },
+        {
+          "path": "assets/report-template.md",
+          "bytes": 500,
+          "sha256": "428d86a435aaefada451bcf6330c0a489b73d180f0def8789b22e6e080ed1aea"
+        },
+        {
+          "path": "references/command-cheatsheet.md",
+          "bytes": 6193,
+          "sha256": "321b27648f9ebb87b5c494a386ebdd5e0e392af9fe3aaa130502c791c655091c"
+        },
+        {
+          "path": "references/constraints.md",
+          "bytes": 6808,
+          "sha256": "a549355c838b8a3c2a19afc86420c48e1d63bb6f1e12103d5dc748c67ad79ebb"
+        },
+        {
+          "path": "references/environment-setup.md",
+          "bytes": 3203,
+          "sha256": "c7e0d0a4f7b4ea51ca72bb85b33d8339e6ad6aa075491b7fca3ab504352f9091"
+        },
+        {
+          "path": "references/execution-guide.md",
+          "bytes": 877,
+          "sha256": "851df356bab491284748372c3c365d9e3f43e496775bd0b77b9817871992538f"
+        },
+        {
+          "path": "references/output-interpretation.md",
+          "bytes": 10264,
+          "sha256": "ff80bafc34d5cd59bbf34b57ee328fbed9f3fa6124585f7a9066ed038bc9a719"
+        },
+        {
+          "path": "references/parameters/bandwidth.md",
+          "bytes": 3659,
+          "sha256": "378e4b5bfc51a20e81079d2dfb023c0a08d1c1e1f4f538fc5207c4cf1a88539f"
+        },
+        {
+          "path": "references/parameters/common.md",
+          "bytes": 2233,
+          "sha256": "d0227d542a267da311e94925fd3d24f40dd775b9f6a9f4683e44797008cdd8c1"
+        },
+        {
+          "path": "references/parameters/diagnosis.md",
+          "bytes": 3471,
+          "sha256": "31c57e3278af2b8455eb4b5ed26f3e2afb35341b691d10d1c0c5701ea872b22a"
+        },
+        {
+          "path": "references/parameters/flops.md",
+          "bytes": 3114,
+          "sha256": "95de12163f59c4088760118f8a006425d90037e4d10b540b971b6ba256fc369e"
+        },
+        {
+          "path": "references/parameters/power.md",
+          "bytes": 2465,
+          "sha256": "cd2af0981799e5cece35279f4d5eadc53706cc88f47d977b12b1a52f95266eb4"
+        },
+        {
+          "path": "references/risk-assessment.md",
+          "bytes": 2639,
+          "sha256": "aa214d17460af4d040da0e279b3281d28727547c6435ca3d6c29259faa767879"
+        },
+        {
+          "path": "scripts/templates/bandwidth-test.sh",
+          "bytes": 1036,
+          "sha256": "64e9ba6a8b937d58685000708216a58e65601b008e0540df8027a7641df2de07"
+        },
+        {
+          "path": "scripts/templates/diagnose-test.sh",
+          "bytes": 890,
+          "sha256": "1b4e35b2eee54a9d33528f581efea3d799d6493fe937acf57404c47cf86e8e6c"
+        },
+        {
+          "path": "scripts/templates/health-check.sh",
+          "bytes": 903,
+          "sha256": "b744912fbc3ca0010bdd824584430359f468cc9c7cdd37e31027cf292587381c"
+        },
+        {
+          "path": "scripts/templates/stress-test.sh",
+          "bytes": 991,
+          "sha256": "e4a3cc00743e2e9ba8907cdd4d85769a6aa2a79f51097c0c3196255eb4c27214"
+        }
+      ],
+      "directories": [
+        "assets",
+        "references",
+        "references/parameters",
+        "scripts",
+        "scripts/templates"
+      ]
+    },
+    {
+      "name": "ascend-docker",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 5415,
+          "sha256": "838de8cbc96c9a3c3e5d78d849647cc202ad79aaaf1f8426ac55d04a0469e20c"
+        },
+        {
+          "path": "scripts/run-ascend-container.sh",
+          "bytes": 4403,
+          "sha256": "a26ab7c178fea35d22f7411a75e27b2b10b2f94108dde2146af7941c2667d62e"
+        }
+      ],
+      "directories": [
+        "scripts"
+      ]
+    },
+    {
+      "name": "ascend-opplugin",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 29002,
+          "sha256": "d366ca646e5c3bbf41d51796b75614bc96916433c157d53b29d3769c2ce2df4a"
+        },
+        {
+          "path": "references/README.md",
+          "bytes": 1374,
+          "sha256": "fd34220bbaaece8e851f8ff3df4bf5c5808b0a4bd2ec97f9d053d5bece664d2c"
+        },
+        {
+          "path": "references/container-cli-driver.md",
+          "bytes": 4607,
+          "sha256": "7a317eecf5fbf43a2e3580e878635f26761ffefc4557d00ba4a05b1c37ae5920"
+        },
+        {
+          "path": "references/examples.md",
+          "bytes": 6769,
+          "sha256": "4b0a9027aed4d2c7f9ee869c6812a7286ddcdf906e767f497ba9288d01d3277c"
+        },
+        {
+          "path": "references/prompt-examples-beginner.md",
+          "bytes": 886,
+          "sha256": "06ffa2a53c23758e3eb04c1ddd0ff9e1d8d73bf2b78eff829fa688721f0e9048"
+        },
+        {
+          "path": "references/prompt-examples.md",
+          "bytes": 3184,
+          "sha256": "e5a4d48516abd3b79d4876f1cb524fd63b0bda072e95c0fb882fd357bbeecf46"
+        },
+        {
+          "path": "references/pybind.md",
+          "bytes": 2580,
+          "sha256": "39fed93862cbc0899112485c29c3271cc9f442aad37511711b9ff66b018ff982"
+        },
+        {
+          "path": "references/reference.md",
+          "bytes": 1795,
+          "sha256": "de28520a2c52943f56434198f33e745efe074e3575d1579f40fb0e21b19ab5b1"
+        }
+      ],
+      "directories": [
+        "references"
+      ]
+    },
+    {
+      "name": "ascendc",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 14450,
+          "sha256": "abb1534aca4da47c7dd2df8155bb293281039c790918e393d4ca73b7c3387218"
+        },
+        {
+          "path": "examples/layer_norm_profiler_reference/LAYER_NORM_PROFILER_PERF_GUIDE.md",
+          "bytes": 1455,
+          "sha256": "ace17148f4572aea2fcc81c0bda1531cd66caeebdde4929207fd53df8d6a3203"
+        },
+        {
+          "path": "examples/layer_norm_profiler_reference/README.md",
+          "bytes": 698,
+          "sha256": "b2372f6b75024cc21a7512c555aa2a5e488483c1f428162007f54f4b971f7458"
+        },
+        {
+          "path": "examples/layer_norm_profiler_reference/benchmark_layer_norm_torch_npu_profiler.py",
+          "bytes": 4308,
+          "sha256": "a9458ff0f2ed14bff952475a5bb7b407cd99027cf66dd23704f902d32c129aca"
+        },
+        {
+          "path": "examples/layer_norm_profiler_reference/layer_norm_perf_cases.jsonl",
+          "bytes": 5754,
+          "sha256": "4871f0c0f89cb30c885a12c106e8eb1b4019460a09473b0778f623fb8e4253bf"
+        },
+        {
+          "path": "examples/layer_norm_profiler_reference/layer_norm_profiler_common.py",
+          "bytes": 16311,
+          "sha256": "377b2b190bb7dae2c5bd868334e9b0c424b8d9d04ee6d6e72cfea3c624f01a8c"
+        },
+        {
+          "path": "examples/precision-debug/async-sync-missing.md",
+          "bytes": 1299,
+          "sha256": "2ba59dc74b3985aa2c27bb607a943048afad417c90eead500cb9317312619347"
+        },
+        {
+          "path": "examples/precision-debug/fp16-no-upcast.md",
+          "bytes": 1424,
+          "sha256": "b8cbd31b0cd8339ce79f246e4d8603261e5f96face6205a57215cb055a6ab67c"
+        },
+        {
+          "path": "examples/precision-debug/gm-offset-error.md",
+          "bytes": 1079,
+          "sha256": "3fe60bbd676cab1eafa21854c8e1f266dfd959e990efdbddc5aaee725adb4346"
+        },
+        {
+          "path": "examples/precision-debug/multicore-tiling-overlap.md",
+          "bytes": 1418,
+          "sha256": "f76a8f61f1f1fc14f0d59af434caa06ef84d5b03d510300815238e0e374924ee"
+        },
+        {
+          "path": "examples/precision-debug/tail-tile-misalign.md",
+          "bytes": 1178,
+          "sha256": "b42ba5ea51093196269914a2abaf53a34f77a8cb17bd89c7db515d06aa2543bb"
+        },
+        {
+          "path": "examples/sample_perf_cases.jsonl",
+          "bytes": 673,
+          "sha256": "251f3fd3503da5a24820bf210f5f9518ef3758933f6f7e9c83a7ff084d3f97e4"
+        },
+        {
+          "path": "examples/sample_report.md",
+          "bytes": 1448,
+          "sha256": "571f393ffb3a3de80d7f5415f6f5d0d59ee467b8c2eee4a60b0119e1ff1cee8f"
+        },
+        {
+          "path": "references/00-environment.md",
+          "bytes": 2198,
+          "sha256": "d1bf175bc9cdfca5d434b3e9032f3e4a7c8e1bd6c63cabc142e2536b0bd3ddb8"
+        },
+        {
+          "path": "references/01-project-init.md",
+          "bytes": 2894,
+          "sha256": "dd8a7aaf14b49c5cfeb665ccd25889f65ef4c7d612c148063308832ab98d658a"
+        },
+        {
+          "path": "references/02-design.md",
+          "bytes": 6223,
+          "sha256": "267fae786155f3d41a029c7c7f756d77a4b2b507f677ced245f594102b0fe7de"
+        },
+        {
+          "path": "references/03-testcase-gen.md",
+          "bytes": 2849,
+          "sha256": "822150f7ced405bd27564e2d3a1c40fb4a9f0ad5946946b7ff4fe6be8b381f21"
+        },
+        {
+          "path": "references/04-code-gen.md",
+          "bytes": 5999,
+          "sha256": "a3280ca0a6eba828b950449d80a045d168439dc32ac1857ecdb7a07f1bf18b4d"
+        },
+        {
+          "path": "references/04a-kernel-api.md",
+          "bytes": 5251,
+          "sha256": "39567aaae1859d66908a3f17bd1d39bd2e9acd1c1af912537fea6ed8320df5eb"
+        },
+        {
+          "path": "references/05-compile-debug.md",
+          "bytes": 4736,
+          "sha256": "b80bb29a689f3f818769f54afb8ffc20cb21ad749fc30709cbe1ed27f1f920b6"
+        },
+        {
+          "path": "references/06-doc-gen.md",
+          "bytes": 1923,
+          "sha256": "6169c9d379d53fb489268682c02bf86406232cc9417cb893c2a6e3d77be65255"
+        },
+        {
+          "path": "references/07-precision-eval.md",
+          "bytes": 3932,
+          "sha256": "c943344ea0cb11311aa6667804518c4916d4aa7e74ed303a1e301db28a823336"
+        },
+        {
+          "path": "references/07a-precision-standards.md",
+          "bytes": 1353,
+          "sha256": "965630380a47e3759def1d314d5f0881542bfbd1b530c990bc873c351a63d70d"
+        },
+        {
+          "path": "references/07b-precision-debug.md",
+          "bytes": 6398,
+          "sha256": "20c14d49d458cc9228eeac0b8c3bc95843a10cc66750b5b2a239c41283a4a741"
+        },
+        {
+          "path": "references/08-performance-eval.md",
+          "bytes": 4099,
+          "sha256": "b1cd3fb0466377d89bf383e693372cabba18842ce24439acac806817da1100a6"
+        },
+        {
+          "path": "references/08a-profiler-and-metrics.md",
+          "bytes": 1968,
+          "sha256": "9c0a874a8ff200faa8381d293b3653e867f03330ea5e5ca9084fe47951938d24"
+        },
+        {
+          "path": "references/08b-perf-case-jsonl.md",
+          "bytes": 2413,
+          "sha256": "ffe06ab273d49c2307c6658cede81f0d26bf96f02f00c6dd857b3d52aeb5ff18"
+        },
+        {
+          "path": "references/09-performance-optim.md",
+          "bytes": 4450,
+          "sha256": "72d28e889bdb48c4570403ee7d2ab5d36ecdc834c0b90747a89c4d9397419117"
+        },
+        {
+          "path": "references/10-code-review.md",
+          "bytes": 3188,
+          "sha256": "723431e76bb1516ab773a695c1c398ef6c8fe503fbe00bd65259320ef52dd701"
+        },
+        {
+          "path": "references/11-mssanitizer.md",
+          "bytes": 3432,
+          "sha256": "0bfbe64f2e96fc200486a4e3116922d16a590dce6fe88a631c729599a26734c3"
+        },
+        {
+          "path": "scripts/debug_precision_template.py",
+          "bytes": 5135,
+          "sha256": "fc1346c2077365cfcb0a2f59de15ccf07dab0df3b64c7a332ab2e4c7160f5630"
+        },
+        {
+          "path": "scripts/detect_ascend_kernel_project.sh",
+          "bytes": 2748,
+          "sha256": "77cd79e0da92a6af4bff3fcf62930ccbf95ac27f40e0633952a684e10283985f"
+        },
+        {
+          "path": "scripts/gen_test_script.py",
+          "bytes": 5820,
+          "sha256": "15c2dd6010b36fb2d472fd4669f149b8d02097b58c76805abb728aa139988b28"
+        },
+        {
+          "path": "scripts/parse_mssanitizer_log.py",
+          "bytes": 19784,
+          "sha256": "a228cdf43a4a96d461b03905a922dc017ec54a0839c024f82be996778eeabdaa"
+        },
+        {
+          "path": "scripts/run_mssanitizer.sh",
+          "bytes": 9003,
+          "sha256": "104920a93630d51af0a688595ef06de86c0d727348827c0c880a518c1628e78c"
+        },
+        {
+          "path": "scripts/run_mssanitizer_geir.sh",
+          "bytes": 14273,
+          "sha256": "1f8dd85c2400aa8136b60081142329ce934008f08e211da59794b0e5e700894f"
+        },
+        {
+          "path": "templates/ascend-kernel/CMakeLists.txt",
+          "bytes": 2134,
+          "sha256": "57491bf08d3a8816330bfb4019bcd34f526971664034d0319e518a7f38923ea4"
+        },
+        {
+          "path": "templates/ascend-kernel/build.sh",
+          "bytes": 3322,
+          "sha256": "43213e7c05b6ac57de79fb5abae37b95618bb88a55ca582f6213fc0da9449c11"
+        },
+        {
+          "path": "templates/ascend-kernel/cmake/config_ascend.cmake",
+          "bytes": 1028,
+          "sha256": "5c4c646241ff9b2255d05c2c7a547e420a6472efbe4a358b6df3f11e5594f924"
+        },
+        {
+          "path": "templates/ascend-kernel/cmake/config_envs.cmake",
+          "bytes": 2991,
+          "sha256": "71c5a3771421453d9dce4dfcd0685dfc30786cf43559c164380488c4dafd73cf"
+        },
+        {
+          "path": "templates/ascend-kernel/cmake/config_git_last_commit.cmake",
+          "bytes": 671,
+          "sha256": "03b81d97a585bd28681edc31aaeff373f0596cf4d2322e8cf453d231a329d5a5"
+        },
+        {
+          "path": "templates/ascend-kernel/config.ini",
+          "bytes": 30,
+          "sha256": "be415de0aeeeff121cc80dae1cba0fd5cf44b8341caed0c5715f291da680d7f8"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/CMakeLists.txt",
+          "bytes": 2409,
+          "sha256": "a60d4070de9e263ac9dc8851fc4c5facb483b2a5eb9db4dbaf5d61d08127f460"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/aclnn/avg_pool3d.cpp",
+          "bytes": 5916,
+          "sha256": "f4cb1f7927873053b0b4efa0c66a5ba49a24e9fbaf05ae3490ab9397f70c5404"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/ops.h",
+          "bytes": 1186,
+          "sha256": "b2fc385a3064cd4ddf6693af358df7fd90baafb3da4bafb13b8a1319d34af2d3"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/ops/helloworld/op_host/helloworld.cpp",
+          "bytes": 1113,
+          "sha256": "9779e9f1a2286603912f64e9130ae1c7b2a5e1813bbccb7a7db00d5967f86e77"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/ops/helloworld/op_kernel/kernel_helloworld.cpp",
+          "bytes": 3602,
+          "sha256": "ce2b870ce3c2950abe49d5dbdaec4bfd11a66489e4f9d7309d88953e275efb1a"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/register.cpp",
+          "bytes": 1439,
+          "sha256": "2f3f6ab77289e1f96145adcd74e6b3bb8da42de9a8702c581b212ec70e26fd72"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/utils/torch_aclnn_helper.h",
+          "bytes": 24002,
+          "sha256": "b8959a382b0e51f6499be295c6f86d5b37feaa555ff864b2ec973dcdeeb89478"
+        },
+        {
+          "path": "templates/ascend-kernel/csrc/utils/torch_kernel_helper.h",
+          "bytes": 3440,
+          "sha256": "aff5260d582cd9cd23f0cdbb58855297e6e93b21e05abaf699b5daf1c1bcecf8"
+        },
+        {
+          "path": "templates/ascend-kernel/python/ascend_kernel/ascend_kernel/__init__.py",
+          "bytes": 315,
+          "sha256": "12dab7289f085e493e48af469de435022dbc1572bad561c52b2c2c60af13e8f6"
+        },
+        {
+          "path": "templates/ascend-kernel/python/ascend_kernel/setup.py",
+          "bytes": 1441,
+          "sha256": "46c7aaab7b5fce40532a82c1c93c0e7d96cd856da635c46381e346d671b0b9ba"
+        },
+        {
+          "path": "templates/ascend-kernel/tests/test_avg_pool3d.py",
+          "bytes": 11238,
+          "sha256": "8d570ff805a2cc48649fdb47975e6beae958f02c6f299f0e47d50c6815fee870"
+        },
+        {
+          "path": "templates/ascend-kernel/third_party/.gitkeep",
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "path": "templates/code-gen/elementwise_op_host.cpp",
+          "bytes": 3326,
+          "sha256": "74e9549af5f5b7b98bad453529dfffe81b5683e9e460a0e9d986ce6bd81e11a8"
+        },
+        {
+          "path": "templates/code-gen/elementwise_op_kernel.cpp",
+          "bytes": 5409,
+          "sha256": "6aa1e91ea8fe98028a071bacce1624cd57b84a53d0d77c2b233c8a39960c398b"
+        },
+        {
+          "path": "templates/code-gen/index_op_host.cpp",
+          "bytes": 4586,
+          "sha256": "4d6828471184389493d928a347b19f05201f6339a374d33c86e94c1273694668"
+        },
+        {
+          "path": "templates/code-gen/index_op_kernel.cpp",
+          "bytes": 13726,
+          "sha256": "4cf9c6b476e403ccd075f2c4eed88032c60f376e854acef13f737937b7941008"
+        },
+        {
+          "path": "templates/code-gen/index_op_per_elem_host.cpp",
+          "bytes": 4876,
+          "sha256": "6addcd7b4ac723dd41e04a6828052d833d2047a4035cba54d92f852c8a292a20"
+        },
+        {
+          "path": "templates/code-gen/index_op_per_elem_kernel.cpp",
+          "bytes": 15886,
+          "sha256": "1bf26607360ebecb340e6eb561027e45401282711004c8e8280fa0ee17b48923"
+        },
+        {
+          "path": "templates/code-gen/pool_ndhwc_op_host.cpp",
+          "bytes": 9026,
+          "sha256": "9c8f11caf8d6e423798c89b733a5e8b7d8482b2890ab37b5c79d49085693ab20"
+        },
+        {
+          "path": "templates/code-gen/pool_ndhwc_op_kernel.cpp",
+          "bytes": 18767,
+          "sha256": "a6e43e753f3018319cf718e051711dc684d4fc1b4826ce7b6331bb31323b3a2e"
+        },
+        {
+          "path": "templates/code-gen/row_op_host.cpp",
+          "bytes": 4275,
+          "sha256": "fa310b3d56316eecc68c908a3fdd8e64ffc4717b68d4b1312c373ab0f0bf9b67"
+        },
+        {
+          "path": "templates/code-gen/row_op_kernel.cpp",
+          "bytes": 5536,
+          "sha256": "03d87468ed9eb53bb9e0d720ddfee1e7caa52151953cb2b3984c334199464884"
+        },
+        {
+          "path": "templates/code-gen/sort_op_host.cpp",
+          "bytes": 3441,
+          "sha256": "d9f43586b7f480937084cbcbf8122f7876a6163a80965116e6716872c25d763e"
+        },
+        {
+          "path": "templates/code-gen/sort_op_kernel.cpp",
+          "bytes": 1922,
+          "sha256": "e3d9024410fc0ed6403b856f3736acba8b02c4055b4ed5d56fb11936c42e2fe1"
+        },
+        {
+          "path": "templates/design-template.md",
+          "bytes": 4680,
+          "sha256": "ced579e365bba876756816e5202cf0a13a8eec505438349ca6f22c491ab51157"
+        },
+        {
+          "path": "templates/precision/precision_report_template.md",
+          "bytes": 1778,
+          "sha256": "a2dbe344c02463eb86c9c82c18c04644e218c7f7ddc29da37f3b927a0d579e22"
+        },
+        {
+          "path": "templates/precision/run_precision_report_template.py",
+          "bytes": 5421,
+          "sha256": "3f6a435d7dfa27aaacf0678a2421d29c958837267304daae47df94340720ca5b"
+        },
+        {
+          "path": "templates/precision/test_op_precision_template.py",
+          "bytes": 4955,
+          "sha256": "6098199a53f38a1c7363322599052eca9cc81da425609baa6c380d41401c6b88"
+        },
+        {
+          "path": "templates/test-cases-template.md",
+          "bytes": 2111,
+          "sha256": "4872444781575e39551920e939e554d0dcb30a37efd28099a2e1595a55c25798"
+        }
+      ],
+      "directories": [
+        "examples",
+        "examples/layer_norm_profiler_reference",
+        "examples/precision-debug",
+        "references",
+        "scripts",
+        "templates",
+        "templates/ascend-kernel",
+        "templates/ascend-kernel/cmake",
+        "templates/ascend-kernel/csrc",
+        "templates/ascend-kernel/csrc/aclnn",
+        "templates/ascend-kernel/csrc/ops",
+        "templates/ascend-kernel/csrc/ops/helloworld",
+        "templates/ascend-kernel/csrc/ops/helloworld/op_host",
+        "templates/ascend-kernel/csrc/ops/helloworld/op_kernel",
+        "templates/ascend-kernel/csrc/utils",
+        "templates/ascend-kernel/python",
+        "templates/ascend-kernel/python/ascend_kernel",
+        "templates/ascend-kernel/python/ascend_kernel/ascend_kernel",
+        "templates/ascend-kernel/tests",
+        "templates/ascend-kernel/third_party",
+        "templates/code-gen",
+        "templates/precision"
+      ]
+    },
+    {
+      "name": "npu-docker-launcher",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 10089,
+          "sha256": "4e8cb19eb31731f331e36ea6f2c67c62f9e4b8d3e59e414ab52b49c64bb027b4"
+        },
+        {
+          "path": "references/examples.md",
+          "bytes": 8328,
+          "sha256": "d8fa0d55aef13441deb69d883b49c0a03af1825af16c581c0178c3b2deea0d07"
+        },
+        {
+          "path": "references/npu-devices.md",
+          "bytes": 5468,
+          "sha256": "4af6b648a13e7e5a1878f30e33762defe4b87953dfaf77c79d121ee30bed5ecf"
+        }
+      ],
+      "directories": [
+        "references"
+      ]
+    },
+    {
+      "name": "npu-op-benchmark",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 4372,
+          "sha256": "9742530f73ef25da17695277be69864507509dffcb1227436cba593b0ae4c13f"
+        },
+        {
+          "path": "assets/config_template.yaml",
+          "bytes": 137,
+          "sha256": "a47035e84d0f7ce7506b1563380fb927e53f880de69df030103b9d05b99a2d95"
+        },
+        {
+          "path": "references/cann.md",
+          "bytes": 1708,
+          "sha256": "1dc6bd92366a571947669a3f426d2d6f567c5465881cfc8224ffa577a60e1c03"
+        },
+        {
+          "path": "references/conda.md",
+          "bytes": 1279,
+          "sha256": "b2fd236d2754bc95701c6ee437e599f0bbaea2ba39016a035bb0dd6a42de078c"
+        },
+        {
+          "path": "references/docker.md",
+          "bytes": 1369,
+          "sha256": "2e0d5b3e7b452c01880118dc6401536c74829b01e3eba02acccd2bab002cda01"
+        },
+        {
+          "path": "references/troubleshooting.md",
+          "bytes": 408,
+          "sha256": "8f443a3804be673e92ac0443881138219b07856c959c2a2f663eb866b85a1a21"
+        },
+        {
+          "path": "references/usage.md",
+          "bytes": 1927,
+          "sha256": "063037d5cd50175dcacc3bd91bf8047429e5e3d3b1fd9a86f8bfb25ec429e0e6"
+        },
+        {
+          "path": "scripts/bench_op.py",
+          "bytes": 5262,
+          "sha256": "005ff8ff23a87a687aaa4fad3c3689e8d419385d51a084689d4c3138e83e37d3"
+        },
+        {
+          "path": "scripts/bench_repeat_interleave.py",
+          "bytes": 465,
+          "sha256": "45d27649165c543102e943c1c9d10e98d4e2b4ca0273e613bb1153ebb77ee349"
+        },
+        {
+          "path": "scripts/cann_detect.sh",
+          "bytes": 860,
+          "sha256": "c73fa057a7fcd7d10e9e406a04c215e91f6115cbda7a6e2415b792bb1d81994f"
+        },
+        {
+          "path": "scripts/find_docker_cann.sh",
+          "bytes": 705,
+          "sha256": "e3995fcffd775a08b88da2d3b6a26c8604fa296643e8c937e507c70a37f035f0"
+        }
+      ],
+      "directories": [
+        "assets",
+        "references",
+        "scripts"
+      ]
+    },
+    {
+      "name": "npu-smi",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 8439,
+          "sha256": "b9bbb76527d459a67250c1143c887471f3a6fe4aba0c2384b25850ca6b79d33b"
+        },
+        {
+          "path": "references/certificate-management.md",
+          "bytes": 8201,
+          "sha256": "5336da0df00ef743746ab32d54d340d1dc0c2f0a4bd6ca48e04e84f56c2030c7"
+        },
+        {
+          "path": "references/configuration.md",
+          "bytes": 5346,
+          "sha256": "c082d491334da08136a25f6631cfdc865c6e6383c546a8643a2fc350e297aa06"
+        },
+        {
+          "path": "references/device-queries.md",
+          "bytes": 8854,
+          "sha256": "1e6ac80aefd60e6b0a2cd336140d0813beee1c0efd19b3ea7125e131ac183b73"
+        },
+        {
+          "path": "references/firmware-upgrade.md",
+          "bytes": 5572,
+          "sha256": "d19fd80a8e9c8adfe9e1115033e516215fea42ca2cffd9c0df3a3988a96b4b0f"
+        },
+        {
+          "path": "references/virtualization.md",
+          "bytes": 5777,
+          "sha256": "7c19a2cc05bef9316e889559ffc5e6b4fb4daae6ca2cb172b123e7d71c6fa7a0"
+        },
+        {
+          "path": "scripts/npu-health-check.sh",
+          "bytes": 3269,
+          "sha256": "dbcd95a706561904f046800817ac886bbb7498c878b1291a3aa13ff08177f2c2"
+        }
+      ],
+      "directories": [
+        "references",
+        "scripts"
+      ]
+    },
+    {
+      "name": "remote-npu-test",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 11485,
+          "sha256": "df8236275535a428b2113dcbc8185cb8cf7f5f21993e5dddd2287b4de39f250d"
+        }
+      ],
+      "directories": []
+    },
+    {
+      "name": "remote-server-guide",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 12269,
+          "sha256": "f7a2ab1d7c58f2aedcaf63b1a5d4897b8bc0af685d7f066710cb099cd98a3bcb"
+        },
+        {
+          "path": "evals/evals.json",
+          "bytes": 1206,
+          "sha256": "8315a871a8cd1a443c21c0b076d1efc29f3f841f4dff4334f6c008e4201bd0c3"
+        },
+        {
+          "path": "references/container-workflows.md",
+          "bytes": 5553,
+          "sha256": "326b875d1a23f212777e62c5805add82f28b860284d297f7c891a8d7758c0fb5"
+        },
+        {
+          "path": "references/ssh-examples.md",
+          "bytes": 9023,
+          "sha256": "ebc31c434987eb7648809d1f2c0fbaae187f7d9538779f06337c60c40e51a4fc"
+        },
+        {
+          "path": "references/tool-comparison.md",
+          "bytes": 5907,
+          "sha256": "ab798469ee1a3526f2ca9c926104f457bccff4e2b6c3deb2c2b2c9cc2ed34a19"
+        },
+        {
+          "path": "references/tools/fabric-advanced.md",
+          "bytes": 10592,
+          "sha256": "7cbfbb45c4f679f65a80b6bb2f4fc5dea112fe0ebc0af0941c4198a32dbe0a78"
+        },
+        {
+          "path": "references/tools/fabric-basic.md",
+          "bytes": 9103,
+          "sha256": "1273eeb23d3d24730109494b7bf672092425dbb79e4d4cb71986be4403c1d3e1"
+        },
+        {
+          "path": "references/tools/paramiko-advanced.md",
+          "bytes": 13293,
+          "sha256": "a801ee86139fbfff3834834661f09f9e26ad4eced7a761c7a2f8c7961ff3c451"
+        },
+        {
+          "path": "references/tools/paramiko-basic.md",
+          "bytes": 11784,
+          "sha256": "a690e6e3dcdfaac98ed98274820edd0b703cc04285da019f956626108b9eae70"
+        },
+        {
+          "path": "references/tools/sshpass.md",
+          "bytes": 12666,
+          "sha256": "96aef59a429b11cae516953ce2eb3b264df3165023f874dc0a0d54e540645e10"
+        },
+        {
+          "path": "references/tools/tmux.md",
+          "bytes": 6340,
+          "sha256": "ccb3b2b611b8cf05b7f9a74b23d81154fd17edded18d0e326e4c68dc2400d0b6"
+        }
+      ],
+      "directories": [
+        "evals",
+        "references",
+        "references/tools"
+      ]
+    },
+    {
+      "name": "torch_npu",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 9574,
+          "sha256": "e4b5b157811ebe860009b126ecfafc8e4a41d92b156c058a852fc8d405f6c47f"
+        },
+        {
+          "path": "mcp.json",
+          "bytes": 148,
+          "sha256": "b0896b3eda32d837496bb55ee2bfb65798bc0ce5b7cc5acaae03fc10431e62e7"
+        },
+        {
+          "path": "mcp/.gitignore",
+          "bytes": 60,
+          "sha256": "6fc013fb068b8b90550523fcc5232f577c13309fc317ac3e6bf0f22d62196ec4"
+        },
+        {
+          "path": "mcp/README.md",
+          "bytes": 3213,
+          "sha256": "5c015db5414715dcc60411c64f49f612097974288b4a1927b283082e80476ac8"
+        },
+        {
+          "path": "mcp/index.js",
+          "bytes": 7540,
+          "sha256": "e0ac9990c9841cdf8e02865fcd74e4d222fae4c02a6fcbb624dc457cad6c6687"
+        },
+        {
+          "path": "mcp/package.json",
+          "bytes": 534,
+          "sha256": "bf0bf23b66034eea4a7c7f9023333df1b7276b101d0e5f102968fefafd2e576c"
+        },
+        {
+          "path": "package-lock.json",
+          "bytes": 94,
+          "sha256": "7d9523aadaa2c3e63aace869eb99f080fa6584c018089f1c2d355f82d744e730"
+        },
+        {
+          "path": "references/reference.md",
+          "bytes": 10031,
+          "sha256": "b8eceea36820a143548f8757fec7cd603afc2e8c3094e362769f85e743c09fa3"
+        }
+      ],
+      "directories": [
+        "mcp",
+        "references"
+      ]
+    },
+    {
+      "name": "triton-ascend-migration",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "bytes": 13740,
+          "sha256": "f53a4a529d789c5a0a39e011d47e6aeda8612ac31265dccc21e45e2938c7c8ef"
+        },
+        {
+          "path": "references/examples.md",
+          "bytes": 12896,
+          "sha256": "9d079283708862c4f5f631b6fa98f5d40b72b7fdba1cb4f7571c5333181ca6dd"
+        },
+        {
+          "path": "references/input-modes.md",
+          "bytes": 3276,
+          "sha256": "1074b3eb0701aad34ea6131c1ae0bd2ad7aa40eb0f4e06d4e41d441b25839de8"
+        },
+        {
+          "path": "references/output-and-validation.md",
+          "bytes": 4586,
+          "sha256": "b32f5ddb2d36e3117e7ef5039bc5547fa50d7f9594c4a9d13c6fb0c9b1177530"
+        },
+        {
+          "path": "references/reference.md",
+          "bytes": 18249,
+          "sha256": "930b151b06cb890041eb2d66c94425d52cacc05810f4556520f2b87cf2f46f16"
+        },
+        {
+          "path": "references/test-checklist.md",
+          "bytes": 6075,
+          "sha256": "5fa6d6329097d978a87199364513f50d79521f8ccfd44d9b0ab715f34326cf85"
+        },
+        {
+          "path": "references/usage.md",
+          "bytes": 4761,
+          "sha256": "e90d03dd5ec346794e24d5c1343f0aa5ee0f7415aefb76399f8ebc9a35efbb87"
+        }
+      ],
+      "directories": [
+        "references"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.adal\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.adal\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.adal\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.adal\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.adal\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.adal\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.adal\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.adal\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.adal\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.adal\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.adal\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.adal\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.adal\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.agents\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.agents\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.agents\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.agents\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.agents\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.agents\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.agents\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.agents\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.agents\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.agents\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.agents\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.agents\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.agents\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.aider-desk\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.aider-desk\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.augment\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.augment\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.augment\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.augment\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.augment\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.augment\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.augment\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.augment\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.augment\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.augment\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.augment\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.augment\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.augment\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.bob\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.bob\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.bob\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.bob\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.bob\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.bob\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.bob\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.bob\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.bob\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.bob\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.bob\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.bob\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.bob\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.claude\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.claude\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.claude\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.claude\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.claude\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.claude\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.claude\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.claude\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.claude\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.claude\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.claude\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.claude\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.claude\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.codeartsdoer\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.codeartsdoer\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.codebuddy\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.codebuddy\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.codeium\\windsurf\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.codeium\\windsurf\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.codemaker\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.codemaker\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.codestudio\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.codestudio\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.commandcode\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.commandcode\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.continue\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.continue\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.continue\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.continue\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.continue\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.continue\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.continue\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.continue\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.continue\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.continue\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.continue\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.continue\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.continue\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.factory\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.factory\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.factory\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.factory\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.factory\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.factory\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.factory\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.factory\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.factory\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.factory\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.factory\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.factory\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.factory\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.forge\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.forge\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.forge\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.forge\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.forge\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.forge\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.forge\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.forge\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.forge\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.forge\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.forge\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.forge\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.forge\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.hermes\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.hermes\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.iflow\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.iflow\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.junie\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.junie\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.junie\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.junie\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.junie\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.junie\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.junie\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.junie\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.junie\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.junie\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.junie\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.junie\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.junie\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.kilocode\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.kilocode\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.kiro\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.kiro\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.kode\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.kode\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.kode\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.kode\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.kode\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.kode\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.kode\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.kode\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.kode\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.kode\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.kode\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.kode\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.kode\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.mcpjam\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.mcpjam\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.mux\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.mux\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.mux\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.mux\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.mux\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.mux\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.mux\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.mux\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.mux\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.mux\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.mux\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.mux\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.mux\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.neovate\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.neovate\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.openclaw\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.openclaw\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.openhands\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.openhands\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.pochi\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.pochi\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.qoder\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.qoder\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.qwen\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.qwen\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.roo\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.roo\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.roo\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.roo\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.roo\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.roo\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.roo\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.roo\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.roo\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.roo\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.roo\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.roo\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.roo\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.rovodev\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.rovodev\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.trae\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.trae\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.trae\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.trae\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.trae\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.trae\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.trae\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.trae\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.trae\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.trae\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.trae\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.trae\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.trae\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.trae-cn\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.trae-cn\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.vibe\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.vibe\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.zencoder\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.zencoder\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.config\\crush\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.config\\crush\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.config\\devin\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.config\\devin\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.config\\goose\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.config\\goose\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.pi\\agent\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.pi\\agent\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.snowflake\\cortex\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.snowflake\\cortex\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    },
+    {
+      "name": "ascend-avi-vnpu",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\ascend-avi-vnpu",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "36b410c1624d94e75773e17806048a8ab38fa2d6827a3c67a1e4559378b225aa"
+    },
+    {
+      "name": "ascend-dmi",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\ascend-dmi",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "31cedfddce9f183e36cb754429210e6e324920217513c3b451db962dabe9629c"
+    },
+    {
+      "name": "ascend-docker",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\ascend-docker",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "feb269e989c36f713d13e37fc1bb60cf2bbdfe9ec7622d7266f88c73f95012bb"
+    },
+    {
+      "name": "ascend-opplugin",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\ascend-opplugin",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "972e64571a34a3ecc30cb8adc3349feeb6821b6fd57fc9d640aaa360e665ccd7"
+    },
+    {
+      "name": "ascendc",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\ascendc",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "90841e52f7d7fd7af594331c28260a304ca2cc93fb8dfc96bce0bb0689923285"
+    },
+    {
+      "name": "npu-docker-launcher",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\npu-docker-launcher",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "56b37bafabbfe7fa43a712af69681383dd69fc3afa02479ac02d936dbff14c4d"
+    },
+    {
+      "name": "npu-op-benchmark",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\npu-op-benchmark",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "44febad891889077240fb1f2061384a791366bc609c640561d5069af060f2376"
+    },
+    {
+      "name": "npu-smi",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\npu-smi",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "d58e5db502a396df81c4d131dfeb0dabd19e049cf9b3c971b64785d008cce595"
+    },
+    {
+      "name": "remote-npu-test",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\remote-npu-test",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "6003306d68b884ee41c4b439132e39f9ea950ddb93dc0bfd3ca28aea72745a05"
+    },
+    {
+      "name": "remote-server-guide",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\remote-server-guide",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "dfd2947b6e99cd2ba8c6f96332e12b0f7b84116e1cb26293b742041ce7ec0dd3"
+    },
+    {
+      "name": "torch_npu",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\torch_npu",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "799a9aa99c04f9bdccb7ff23b5ccf463fa3835ed41aa157c82f4d82f9269c018"
+    },
+    {
+      "name": "triton-ascend-migration",
+      "source": "C:\\Users\\36322\\.tabnine\\agent\\skills\\triton-ascend-migration",
+      "source_root": "C:\\Users\\36322\\.tabnine\\agent\\skills",
+      "digest": "81a2916aa778e0a45adc6b1495be046a050028c40b05781d126f3e72a408251b"
+    }
+  ],
+  "project_scopes": [
+    ".agents/skills",
+    ".claude/skills"
+  ]
+}
